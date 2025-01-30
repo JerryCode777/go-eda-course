@@ -27,5 +27,4 @@ func main() {
 	fmt.Println(jerry)
 	fmt.Println(jerry.Id)
 	fmt.Println(jerry.Name)
-	fmt.Println(jerry.Esono)
 }
